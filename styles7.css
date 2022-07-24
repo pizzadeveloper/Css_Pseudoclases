@@ -1,0 +1,6 @@
+p::before {
+  content: url('smiley.gif');
+}
+p::after {
+  content: url('smiley.gif');
+}
